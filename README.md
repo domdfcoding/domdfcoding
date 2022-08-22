@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=domdfcoding&show_icons=)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domdfcoding&layout=compact)
+
+
+## My Projects
+
+<style>
+	img.org-logo {
+		background-color: white;
+		 border-radius: 20%;
+		 margin-right: 5px
+	}
+</style>
+
+<a href="https://github.com/python-formate/"><img src="https://avatars.githubusercontent.com/u/88681382?s=200&v=4" width="100px" title="python-formate" class="org-logo"></a>
+<a href="https://github.com/python-coincidence/"><img src="https://avatars.githubusercontent.com/u/81223983?s=200&v=4" width="100px" title="python-coincidence" class="org-logo"></a>
+<a href="https://github.com/repo-helper/"><img src="https://avatars.githubusercontent.com/u/74879566?s=200&v=4" width="100px" title="repo-helper" class="org-logo"></a>
+<a href="https://github.com/sphinx-toolbox/"><img src="https://avatars.githubusercontent.com/u/75883961?s=200&v=4" width="100px" title="sphinx-toolbox" class="org-logo"></a>
+<a href="https://github.com/PyMassSpec/"><img src="https://avatars.githubusercontent.com/u/81650545?s=200&v=4" width="100px" title="PyMassSpec" class="org-logo"></a>
