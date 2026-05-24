@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      master
 
 jobs:
   build:
@@ -27,6 +30,13 @@ jobs:
           path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate top-langs card
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}    
 
       - name: Commit cards
         run: |

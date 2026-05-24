@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-![Dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=domdfcoding&show_icons=)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domdfcoding&layout=compact)
+![Dom's GitHub stats](profile/stats.svg)  
+![Top Languages](profile/top-langs.svg)
 
 
 ## My Projects
