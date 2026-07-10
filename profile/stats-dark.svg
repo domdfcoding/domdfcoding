@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Dominic Davis-Foster's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 164, Total Commits  (last year) : 2653, Total PRs: 231, Total Issues: 190, Contributed to (last year): 115</desc>
+        <desc id="descId">Total Stars Earned: 164, Total Commits  (last year) : 2675, Total PRs: 231, Total Issues: 190, Contributed to (last year): 115</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 25.874707237116706;
+        stroke-dashoffset: 25.811919649368793;
       }
     }
   
